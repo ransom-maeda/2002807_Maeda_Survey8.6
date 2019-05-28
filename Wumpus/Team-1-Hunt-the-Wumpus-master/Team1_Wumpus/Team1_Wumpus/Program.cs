@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _2002807_Maeda_Survey8._6
+namespace Team1_Wumpus
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace _2002807_Maeda_Survey8._6
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Menu());
         }
     }
 }

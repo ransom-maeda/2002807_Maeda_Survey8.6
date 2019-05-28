@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _2002807_Maeda_Survey8._6.Properties
+namespace Team1_Wumpus.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace _2002807_Maeda_Survey8._6.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("_2002807_Maeda_Survey8._6.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Team1_Wumpus.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

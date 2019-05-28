@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _2002807_Maeda_Survey8._6.Properties
+namespace Team1_Wumpus.Properties
 {
 
 

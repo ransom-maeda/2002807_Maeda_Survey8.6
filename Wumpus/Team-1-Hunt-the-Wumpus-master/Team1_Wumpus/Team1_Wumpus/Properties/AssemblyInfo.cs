@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("2002807_Maeda_Survey8.6")]
+[assembly: AssemblyTitle("Team1_Wumpus")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("2002807_Maeda_Survey8.6")]
+[assembly: AssemblyProduct("Team1_Wumpus")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("05889e57-77ba-46fa-856f-4160148199f2")]
+[assembly: Guid("31143b42-96c9-41a5-b817-cce9f90fbcfc")]
 
 // Version information for an assembly consists of the following four values:
 //
