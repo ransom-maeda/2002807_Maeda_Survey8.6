@@ -51,7 +51,7 @@ namespace Team1_Wumpus
             checkAnswer();
         }
 
-        private void checkAnswer()
+        public void checkAnswer()
         {
             //checks answer
             if (noButtonChecked.Checked)
@@ -97,19 +97,16 @@ namespace Team1_Wumpus
             }
         }
 
-        private void TriviaForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button3Questions_Click(object sender, EventArgs e)
         {
-            
+            index++;
+            if (index >= 3) index = 0;
         }
 
         private void button5Questions_Click(object sender, EventArgs e)
         {
-
+            index++;
+            if (index >= 5) index = 0;
         }
     }
 }
